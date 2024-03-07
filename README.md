@@ -8,5 +8,14 @@
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-## Project "First Steps in Digital Initiatives" 
+## Project: "First steps in digital initiatives" ![icons8-digital-64](https://github.com/agustinphx/international_hackathon/assets/58674979/4a7d8140-bf1d-4eee-bb80-c00be3f6fb25)
+
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+## Topics covered:
+### 	<img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introduction to the company, clients and product
+### 	<img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Company’s environmental , external and internal analysis
+### 	<img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Future of the company and need for digital implementation
+### 	<img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Competitive forces
+### 	<img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  SWOT analysis
+### 	<img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Digital initiatives
+### 	<img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Recommendations and their Impact
